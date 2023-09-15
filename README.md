@@ -1,4 +1,5 @@
 ![](https://i.imgur.com/yaiiEhN.png)
+
 ##Stickerbomb Maker!
 This is a pretty simple to use Stickerbomb maker. Download the code and follow the instructions below. It may seem daunting but trust me, it is really easy!
 
