@@ -5,7 +5,7 @@ This is a pretty simple to use Stickerbomb maker. Download the code and follow t
 ### Follow these easy steps to use the Stickerbomber!
 ------------
 ### Getting your list of images
-- After you have downloaded the source, put the images you want to use to stickerbomb with, in the** img/logos** folder
+- After you have downloaded the source, put the images you want to use to stickerbomb with, in the **img/logos** folder
 - Navigate back to the main folder, Open CMD in this folder.
 	- in the address bar in the explorer window, type in "CMD"
 - Run the command `dir /b > list.txt`
